@@ -1,0 +1,36 @@
+1630982389986	geckodriver	INFO	Listening on 127.0.0.1:62139
+1630982393016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\e76f8daa9f5696fb\\rust_mozprofileVDOpfv"
+1630982393986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\e76f8daa9f5696fb\\rust_mozprofileVDOpfv\\search.json.mozlz4", (void 0)))
+1630982397517	Marionette	INFO	Listening on port 62147
+1630982397776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630982433682	Marionette	INFO	Stopped listening on port 62147
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630982478167	geckodriver	INFO	Listening on 127.0.0.1:61401
+1630982481173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\e76f8daa9f5696fb\\rust_mozprofileNvZWiI"
+1630982481745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\e76f8daa9f5696fb\\rust_mozprofileNvZWiI\\search.json.mozlz4", (void 0)))
+1630982485477	Marionette	INFO	Listening on port 54356
+1630982485917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1630982526106	Marionette	INFO	Stopped listening on port 54356
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630982608221	geckodriver	INFO	Listening on 127.0.0.1:54797
+1630982611224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\e76f8daa9f5696fb\\rust_mozprofileplt170"
+1630982611914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\robocorp\\temp\\e76f8daa9f5696fb\\rust_mozprofileplt170\\search.json.mozlz4", (void 0)))
+1630982615997	Marionette	INFO	Listening on port 54839
+1630982616079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1630982635179	Marionette	INFO	Stopped listening on port 54839
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630982728759	geckodriver	INFO	Listening on 127.0.0.1:56275
+1630982747020	geckodriver	INFO	Listening on 127.0.0.1:58436
